@@ -1,18 +1,27 @@
-# README Generator Application 
+# test README            [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Description
-This is an application that creates clean and well formatted README files. Users can input whatever information they would otherwise write into their READMEs on their own and instead have the application format them into a finished README. 
+
+a test README for the README Generator Application
+
 ## Table of Contents
+
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 * [Contributing](#contributing)
+
 ## Installation
-The application is included at the github repository https"//githumb.com/Alexjalva/README-Generator  .  The application requires the use of the inquirer package and that will need to be installed in the same directory as index.js. 
+
+The application exists within the index.js file located within the Develop folder in the README Generator Application Repository. The application requires the Inquirer package to be installed as well. 
+
 ## Usage
-Users will need to run the application from the terminal. They simply need to run the command:    node index.js filename    where filename is the desired name of the README document. 
+
+Users will operate teh application through the terminal as shown in this instruction video.
+
 ## License
+
 MIT License
 
             Copyright (c) 2021 Alexander Alvarado
@@ -23,7 +32,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ## Contributing
+
 ### Contributor Covenant Code of Conduct
 
 #### Our Pledge
@@ -62,7 +73,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 #### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at alexjalva@gmail.com
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at Alexjalva@gmai.com
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
@@ -109,5 +120,7 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [FAQ]: https://www.contributor-covenant.org/faq 
 [translations]: https://www.contributor-covenant.org/translations 
 
+
 ## Questions
+
 Contact Information can be found at: https://github.com/Alexjalva
